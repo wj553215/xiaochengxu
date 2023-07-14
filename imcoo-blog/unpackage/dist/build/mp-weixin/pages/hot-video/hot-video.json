@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "hot-video-item": "/components/hot-video-item/hot-video-item"
+  }
+}

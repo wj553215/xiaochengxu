@@ -1,0 +1,1 @@
+<view class="hot-video-container"><block wx:for="{{videoList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block><hot-video-item vue-id="{{'dbd43370-1-'+index}}" data="{{item}}" bind:__l="__l"></hot-video-item></block></block></view>
